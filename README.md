@@ -3,6 +3,7 @@
 Non-destructive Parameter Smoothing for Avatars 3.0
 
 ## How to use
+- Install [Logilabo Avatar Tools VPM repository](https://vpm.logilabo.dev) and import "Parameter Smoother".
 - Add "Logilabo Avatar Tools / Parameter Smoother" component to an object in the target avatar.
 - Fill configuration parameters.
 
